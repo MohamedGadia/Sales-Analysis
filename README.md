@@ -23,8 +23,3 @@ To run the analysis, you will need the following Python libraries:
 - `pandas`
 - `matplotlib`
 - `os` (for handling file operations)
-
-You can install these libraries using `pip`:
-
-```bash
-pip install pandas matplotlib
